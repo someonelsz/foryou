@@ -41,6 +41,8 @@ body{
 .greetings > span:nth-child(5){
     animation-delay: .32;
 }
+.greetings > span:nth-child(6){
+    animation-delay: .40;
 
 .description{
     font-size: .2rem;
