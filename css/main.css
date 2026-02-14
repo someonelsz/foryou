@@ -1016,7 +1016,7 @@ body {
 .long-g .leaf {
   --w: 15vmin;
   --h: 40vmin;
-  --c: #1aaa15;
+  --c: #ff00ff;
   position: absolute;
   bottom: 0;
   width: var(--w);
